@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Guia Turístico - São Sebastião</title>
+</head>
+<body>
+  <h1>Guia Turístico de São Sebastião</h1>
+
+  <h2>Pontos Turísticos</h2>
+  <ul>
+    <li>Praia de Maresias</li>
+    <li>Centro Histórico</li>
+    <li>Praia de Juquehy</li>
+    <li>Praia de Camburi</li>
+    <li>Praia de Boiçucanga</li>
+  </ul>
+
+  <h2>Clima</h2>
+  <p>São Sebastião tem clima tropical, com verões quentes e chuvosos e invernos amenos. A melhor época para visitar é entre abril e setembro, quando as chuvas são menos frequentes.</p>
+
+  <h2>Passagens e Transporte</h2>
+  <p>Você pode chegar a São Sebastião de ônibus (partindo do Terminal Tietê, em São Paulo) ou de carro pela Rodovia Rio-Santos (BR-101). As passagens rodoviárias variam de R$ 70 a R$ 120 dependendo do horário e da companhia.</p>
+
+  <h2>Gastronomia</h2>
+  <p>Experimente os frutos do mar frescos e pratos típicos da culinária caiçara, como peixe na folha de bananeira e bobó de camarão.</p>
+
+  <h2>Hospedagem</h2>
+  <p>Hotéis, pousadas e campings estão disponíveis para todos os gostos e bolsos. Reservas antecipadas são recomendadas durante a alta temporada (dezembro a fevereiro).</p>
+
+  <h2>Como Chegar</h2>
+  <p>São Sebastião está localizado no litoral norte de SP. De carro, acesse pela Rodovia Tamoios ou Rodovia Mogi-Bertioga, conectando-se à BR-101 (Rio-Santos). Também há balsas conectando o centro de São Sebastião a outras localidades próximas.</p>
+</body>
+</html>
